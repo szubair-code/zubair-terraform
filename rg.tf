@@ -3,6 +3,6 @@ resource "azurerm_resource_group" "AP1" {
   name     = var.tdp
   location = var.andhra
    owner = "Zubair"
-   name2 = zubair2
-   task = hh
+   name2 = zubair111
+   task = yy
 }
